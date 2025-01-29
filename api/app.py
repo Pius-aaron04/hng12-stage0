@@ -33,3 +33,7 @@ app.add_middleware(
 @app.get('/')
 async def get_root() -> Response:
     return Response()
+
+@app.get('/api')
+async def get_api_root() -> Response:
+    return Response()
