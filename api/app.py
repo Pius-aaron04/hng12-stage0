@@ -10,7 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # Response Structure
 class Response(BaseModel):
     email: str = "piuschbz@gmail.com"
-    current_datetime: str = datetime.utcnow().replace(microsecond=0).isoformat() + 'Z'
+    current_datetime: str = datetime.now().replace(microsecond=0).isoformat() + 'Z'
     github_url: str = "https://github.com/Pius-aaron04/hng12-stage0"
 
 
