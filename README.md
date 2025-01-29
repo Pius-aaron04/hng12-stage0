@@ -41,8 +41,3 @@ fastapi dev api/app.py
 
 ## Backlinks:
 - [HNG Python Devs](https://hng.tech/hire/python-developers)
-- [HNG C# Devs](https://hng.tech/hire/csharp-developers)
-- [HNG Go lang Devs](https://hng.tech/hire/golang-developers)
-- [HNG PHP Devs](https://hng.tech/hire/php-developers)
-- [HNG Java Devs](https://hng.tech/hire/java-developers)
-- [HNG NodeJS Devs](https://hng.tech/hire/nodejs-developers)
